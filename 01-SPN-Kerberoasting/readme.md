@@ -59,4 +59,4 @@ All databases remained ONLINE
 
 ## References
 - [MITRE ATT&CK T1558.003](https://attack.mitre.org/techniques/T1558/003/)
-- [Virtual Accounts - Microsoft](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/manage/service-accounts/service-accounts)
+

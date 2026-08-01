@@ -79,5 +79,4 @@ Never use human or privileged accounts as SQL service accounts. Use `NT SERVICE\
 
 ## References
 - [MITRE ATT&CK T1552.004 - LSA Secrets](https://attack.mitre.org/techniques/T1552/004/)
-- [Virtual Accounts - Microsoft Docs](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/manage/service-accounts/service-accounts)
 - [SQL Server Service Account Best Practices](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/configure-windows-service-accounts-and-permissions)

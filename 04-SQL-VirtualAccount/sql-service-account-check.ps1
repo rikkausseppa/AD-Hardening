@@ -60,8 +60,8 @@ $sqlServices = foreach ($server in $servers) {
                           StartName,
                           State,
                           @{n='Status';e={
-                            if ($_.StartName -match 'NT SERVICE') { '✅ Virtual Account' }
-                            elseif ($_.StartName -match 'NT AUTHORITY') { '✅ Built-in' }
+                            if ($_.StartName -match 'NT SERVICE') { 'Virtual Account' }
+                            elseif ($_.StartName -match 'NT AUTHORITY') { 'Built-in' }
                             else { '❌ Domain Account - FIX REQUIRED' }
                           }}
     }

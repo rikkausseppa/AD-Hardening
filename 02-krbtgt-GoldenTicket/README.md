@@ -85,4 +85,4 @@ Always reset krbtgt twice after any security incident. Wait minimum 10 hours bet
 
 - [MITRE ATT&CK T1558.001 - Golden Ticket](https://attack.mitre.org/techniques/T1558/001/)
 - [Microsoft - Kerberos Golden Ticket Alerts](https://docs.microsoft.com/en-us/defender-for-identity/compromised-credentials-alerts)
-- [Resetting krbtgt Account Password](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/manage/component-updates/kerberos-authentication-overview)
+

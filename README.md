@@ -59,5 +59,5 @@ Key findings that enabled the attack:
 
 ## Connect
 
-- [LinkedIn](https://linkedin.com/servetdemirci
-- [PowerShell-Automation]([https://github.com/yourusername/PowerShell-Automation](https://github.com/rikkausseppa/AD-Hardening/tree/main))
+- [LinkedIn](https://linkedin.com/rikkausseppa
+- [PowerShell-Automation](https://github.com/rikkausseppa/AD-Hardening/)
